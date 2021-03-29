@@ -19,6 +19,6 @@ My name is Shahid Shaikh and I am currently working as a UI Developer for Media.
 
 In my previous life I was working as an Android Developer, however, now I have switched to Frontend Web Development. 
 
-- 🌱 I’m currently learning React Native
-- 🤔 I’m looking for help with React Native
+- 🌱 I’m currently learning PHP / Laravel / Flutter
+- 🤔 I’m looking for help with PHP
 - 💬 Ask me about User Interfaces, Websites, New Tech, Books, Music, History and what ever else you find interesting.
