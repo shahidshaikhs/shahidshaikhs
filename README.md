@@ -1,4 +1,4 @@
-👋 &nbsp;Hey there! <br/> I am Shahid Shaikh
+👋 &nbsp;Hey there!
 ======
 
 I'm a [Mumbai](https://www.google.com/maps/@19.1102976,72.9153536,12z) based UI Developer with over three years of professional experience.
